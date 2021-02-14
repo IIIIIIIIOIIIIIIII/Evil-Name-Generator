@@ -7,14 +7,14 @@ let create3x = document.getElementById('createTripple');
 let create2x = document.getElementById('createDouble');
 
 let wordsFor3xGenerator = {
-    attribute: ['bloody', 'evil', 'sinister', 'shadow', 'dark', 'gloomy', 'brutal', 'demonic', 'devastating', 'cruel', 'creeping', 'mean', 'grim', 'toxic'],
+    attribute: ['bloody', 'evil', 'sinister', 'shadow', 'dark', 'gloomy', 'brutal', 'apocalyptic', 'demonic', 'devastating', 'cruel', 'creeping', 'mean', 'grim', 'toxic']
     what: ['body', 'mind', 'fate', 'hope', 'skull', 'skin', 'soul', 'human', 'victim'],
     who: ['butcher', 'tormentor', 'slayer', 'crusher', 'ruiner', 
           'reaper', 'suffocator', 'devastator', 'torturer', 'devourer', 'catcher', 'blinder']
 };
 
 let wordsFor2xGenerator = {
-    attribute: ['bloody', 'evil', 'sinister', 'shadow', 'dark', 'gloomy', 'brutal', 'demonic', 'devastating', 'cruel', 'creeping', 'mean', 'grim',
+    attribute: ['bloody', 'evil', 'sinister', 'shadow', 'dark', 'gloomy', 'apocalyptic', 'brutal', 'demonic', 'devastating', 'cruel', 'creeping', 'mean', 'grim',
                 'body', 'mind', 'fate', 'hope', 'skull', 'skin', 'soul', 'human', 'victim', 'toxic'],
     who: ['butcher', 'tormentor', 'slayer', 'crusher', 'ruiner', 'reaper', 
           'maniac', 'suffocator', 'devastator', 'torturer', 'devourer', 'catcher', 'blinder']
